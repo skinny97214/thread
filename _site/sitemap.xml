@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>http://crystalbeasley.com/</loc>
+		<changefreq>daily</changefreq>
+	</url>
+	<url>
+		<loc>http://crystalbeasley.com/about/</loc>
+		<changefreq>monthly</changefreq>
+	</url>
+	<url>
+		<loc>http://crystalbeasley.com/disclaimer/</loc>
+		<changefreq>monthly</changefreq>
+	</url>
+	<url>
+		<loc>http://crystalbeasley.com/archive/</loc>
+		<changefreq>daily</changefreq>
+	</url>
+	
+	<url>
+		<loc>http://crystalbeasley.com/thread/2013/11/29/testing</loc>
+		<lastmod>2013-11-29</lastmod>
+	</url>
+	 
+</urlset>
