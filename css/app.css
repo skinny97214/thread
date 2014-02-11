@@ -44,3 +44,7 @@
 }
 #footer a:hover{text-decoration: underline;
 }
+
+.margins {
+	padding-top: 32px;
+}
